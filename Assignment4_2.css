@@ -1,0 +1,26 @@
+
+body {
+	margin: 25px;
+}
+
+.main {
+	float: left;
+	width: 250px;
+	height: 200px
+	font-size: 16px;
+	font-family: Arial;
+	margin-bottom: 40px;
+	margin-right: 40px;
+	margin-top: 40px;
+	margin-left: 40px;
+	background-color: rgb(0,0,255);
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-top: 10px;
+    padding-bottom: 10px;
+	border-right: solid black 40px;
+	border-left: solid black 40px;
+    border-top: solid black 40px;
+   	border-bottom: solid black 40px;
+       
+}
